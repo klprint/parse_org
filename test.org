@@ -1,0 +1,10 @@
+* Test
+
+
+#+CAPTION: Dies ist ein caption test! 
+#+LABEL: fig-test
+#+NAME: fig-test
+[[./presentations/jc_2017_03/immuneCells.png]]
+
+Dies ist ein test [[fig-test]].
+
